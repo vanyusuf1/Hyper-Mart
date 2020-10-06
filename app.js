@@ -18,7 +18,9 @@ mongoose
   })
   .then(() => {
     console.log("DB CONNECTED");
-  });
+  }).catch(function () {
+    console.log("Promise Rejected");
+});
 
 //Middlewares
 app.use(bodyParser.json());
