@@ -1,4 +1,4 @@
-# HyperTEEMart 🛒
+# HyperTEEMart 🛒 
 
 [![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](http://cv.lbesson.qc.to/)
 ![Progress](https://progress-bar.dev/50/)
@@ -8,7 +8,7 @@
 This is a dynamic e-commerce website built with **MERN** stack. One stop solution for buying your favorite Tee products.
 
 ## Project Summary 📖
-The website displays wide range of clothing products. Users can purchase(***End Users***), add and remove products(***Admin***) to/from their cart while specifying the stock/quantity of each item. They can then enter their details and proceed towards handling the payment processing.
+The website displays a wide range of clothing products. Users can purchase(***End Users***), add and remove products(***Admin***) to/from their cart while specifying the stock/quantity of each item. They can then enter their details and proceed towards handling the payment processing.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
