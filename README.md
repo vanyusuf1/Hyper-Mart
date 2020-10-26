@@ -26,7 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Connecting FrontEnd to BackEnd
 - Designing Admin Panel
-- Designing Purchase Card and front store page
+- Designing Purchase Cart and front store page
 - Integrate Payment Gateway
 
 ## Available Scripts
